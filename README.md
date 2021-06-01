@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike!  
-- 👀 I’m interested in data science, green tech, rock climbing, cooking, reading, and other things.
+- 👀 I’m interested in data science, green tech, rock climbing, cooking, reading, and one or two other things.
 - 🌱 I’m currently learning about forecasting algorithms and AMI data as I explore opportunities in the clean energy space.
-- 💞️ I’m looking to collaborate on clean energy projects! Happy to help environmental nonprofits with their data management and analysis.
+- 💞️ I’m looking to collaborate on energy-related projects! Happy to help environmental nonprofits with their data management and analysis.
 - 📫 How to reach me ...mjehl1012@gmail.com
 
 <!---
