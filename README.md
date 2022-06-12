@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mike!  
-- 👀 I’m interested in data science, green tech, rock climbing, cooking, reading, and one or two other things.
-- 🌱 I’m currently learning about forecasting algorithms and AMI data as I explore opportunities in the clean energy space.
-- 💞️ I’m looking to collaborate on energy-related projects! Happy to help environmental nonprofits with their data management and analysis.
-- 📫 How to reach me ...mjehl1012@gmail.com
+- 👀 I’m interested in data science, clean energy, rock climbing, comedy, reading, and a few other things.
+- 🌱 I spend a lot of my working days manipulating energy data to better understand how to modernize the grid.
+- 💞️ I’m in the final months of the Clean Energy Leadership Institute Fellowship. Posting an EV-related data project to my repo Summer 2022.
 
 <!---
 mjehl1012/mjehl1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
